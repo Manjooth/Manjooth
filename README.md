@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manjooth
 - 👀 I’m interested in learning about Java and low level programming
-- 🌱 I’m currently learning React + Redux, HTML, Docker and some snippets of Java here and there :)
+- 🌱 I’m currently learning Java :)
 - 💞️ I’m looking to collaborate on anything interesting that will help me learn!
 - 📫 How to reach me ... 
 
